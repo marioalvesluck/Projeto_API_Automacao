@@ -1,0 +1,73 @@
+TriggerID, Nome do host, IP, Descrição
+ ,office-new-york-sr02.zabbix
+37547, office-new-york-sr02.zabbix, 192.168.3.243, Zabbix agent is not available (or nodata for 30m)
+37544, office-new-york-sr02.zabbix, 192.168.3.243, Unavailable by ICMP ping
+37545, office-new-york-sr02.zabbix, 192.168.3.243, High ICMP ping loss
+37546, office-new-york-sr02.zabbix, 192.168.3.243, High ICMP ping response time
+37548, office-new-york-sr02.zabbix, 192.168.3.243, Configured max number of open filedescriptors is too low (< 256)
+37549, office-new-york-sr02.zabbix, 192.168.3.243, Getting closer to process limit (over 80% used)
+37550, office-new-york-sr02.zabbix, 192.168.3.243, Configured max number of processes is too low (< 1024)
+37551, office-new-york-sr02.zabbix, 192.168.3.243, Load average is too high (per CPU load over 1.5 for 5m)
+37552, office-new-york-sr02.zabbix, 192.168.3.243, High CPU utilization (over 90% for 5m)
+37553, office-new-york-sr02.zabbix, 192.168.3.243, System name has changed (new name: *UNKNOWN*)
+37554, office-new-york-sr02.zabbix, 192.168.3.243, System time is out of sync (diff with Zabbix server > 60s)
+37555, office-new-york-sr02.zabbix, 192.168.3.243, Operating system description has changed
+37556, office-new-york-sr02.zabbix, 192.168.3.243, High swap space usage (less than 50% free)
+37557, office-new-york-sr02.zabbix, 192.168.3.243, office-new-york-sr02.zabbix has been restarted (uptime < 10m)
+37558, office-new-york-sr02.zabbix, 192.168.3.243, /etc/passwd has been changed
+37559, office-new-york-sr02.zabbix, 192.168.3.243, Lack of available memory (<20M of 472.99 MB)
+37560, office-new-york-sr02.zabbix, 192.168.3.243, High memory utilization (>90% for 5m)
+ ,office-new-york-sr01.zabbix
+37522, office-new-york-sr01.zabbix, 192.168.3.242, Zabbix agent is not available (or nodata for 30m)
+37519, office-new-york-sr01.zabbix, 192.168.3.242, Unavailable by ICMP ping
+37520, office-new-york-sr01.zabbix, 192.168.3.242, High ICMP ping loss
+37521, office-new-york-sr01.zabbix, 192.168.3.242, High ICMP ping response time
+37523, office-new-york-sr01.zabbix, 192.168.3.242, Configured max number of open filedescriptors is too low (< 256)
+37524, office-new-york-sr01.zabbix, 192.168.3.242, Getting closer to process limit (over 80% used)
+37525, office-new-york-sr01.zabbix, 192.168.3.242, Configured max number of processes is too low (< 1024)
+37526, office-new-york-sr01.zabbix, 192.168.3.242, Load average is too high (per CPU load over 1.5 for 5m)
+37527, office-new-york-sr01.zabbix, 192.168.3.242, High CPU utilization (over 90% for 5m)
+37528, office-new-york-sr01.zabbix, 192.168.3.242, System name has changed (new name: *UNKNOWN*)
+37529, office-new-york-sr01.zabbix, 192.168.3.242, System time is out of sync (diff with Zabbix server > 60s)
+37530, office-new-york-sr01.zabbix, 192.168.3.242, Operating system description has changed
+37531, office-new-york-sr01.zabbix, 192.168.3.242, High swap space usage (less than 50% free)
+37532, office-new-york-sr01.zabbix, 192.168.3.242, office-new-york-sr01.zabbix has been restarted (uptime < 10m)
+37533, office-new-york-sr01.zabbix, 192.168.3.242, /etc/passwd has been changed
+37534, office-new-york-sr01.zabbix, 192.168.3.242, Lack of available memory (<20M of 472.99 MB)
+37535, office-new-york-sr01.zabbix, 192.168.3.242, High memory utilization (>90% for 5m)
+ ,office-new-york-router.zabbix
+37572, office-new-york-router.zabbix, 192.168.3.240, Zabbix agent is not available (or nodata for 30m)
+37569, office-new-york-router.zabbix, 192.168.3.240, Unavailable by ICMP ping
+37570, office-new-york-router.zabbix, 192.168.3.240, High ICMP ping loss
+37571, office-new-york-router.zabbix, 192.168.3.240, High ICMP ping response time
+37573, office-new-york-router.zabbix, 192.168.3.240, Configured max number of open filedescriptors is too low (< 256)
+37574, office-new-york-router.zabbix, 192.168.3.240, Getting closer to process limit (over 80% used)
+37575, office-new-york-router.zabbix, 192.168.3.240, Configured max number of processes is too low (< 1024)
+37576, office-new-york-router.zabbix, 192.168.3.240, Load average is too high (per CPU load over 1.5 for 5m)
+37577, office-new-york-router.zabbix, 192.168.3.240, High CPU utilization (over 90% for 5m)
+37578, office-new-york-router.zabbix, 192.168.3.240, System name has changed (new name: *UNKNOWN*)
+37579, office-new-york-router.zabbix, 192.168.3.240, System time is out of sync (diff with Zabbix server > 60s)
+37580, office-new-york-router.zabbix, 192.168.3.240, Operating system description has changed
+37581, office-new-york-router.zabbix, 192.168.3.240, High swap space usage (less than 50% free)
+37582, office-new-york-router.zabbix, 192.168.3.240, office-new-york-router.zabbix has been restarted (uptime < 10m)
+37583, office-new-york-router.zabbix, 192.168.3.240, /etc/passwd has been changed
+37584, office-new-york-router.zabbix, 192.168.3.240, Lack of available memory (<20M of 472.99 MB)
+37585, office-new-york-router.zabbix, 192.168.3.240, High memory utilization (>90% for 5m)
+ ,office-new-york-Switch.zabbix
+37597, office-new-york-Switch.zabbix, 192.168.3.241, Zabbix agent is not available (or nodata for 30m)
+37594, office-new-york-Switch.zabbix, 192.168.3.241, Unavailable by ICMP ping
+37595, office-new-york-Switch.zabbix, 192.168.3.241, High ICMP ping loss
+37596, office-new-york-Switch.zabbix, 192.168.3.241, High ICMP ping response time
+37598, office-new-york-Switch.zabbix, 192.168.3.241, Configured max number of open filedescriptors is too low (< 256)
+37599, office-new-york-Switch.zabbix, 192.168.3.241, Getting closer to process limit (over 80% used)
+37600, office-new-york-Switch.zabbix, 192.168.3.241, Configured max number of processes is too low (< 1024)
+37601, office-new-york-Switch.zabbix, 192.168.3.241, Load average is too high (per CPU load over 1.5 for 5m)
+37602, office-new-york-Switch.zabbix, 192.168.3.241, High CPU utilization (over 90% for 5m)
+37603, office-new-york-Switch.zabbix, 192.168.3.241, System name has changed (new name: *UNKNOWN*)
+37604, office-new-york-Switch.zabbix, 192.168.3.241, System time is out of sync (diff with Zabbix server > 60s)
+37605, office-new-york-Switch.zabbix, 192.168.3.241, Operating system description has changed
+37606, office-new-york-Switch.zabbix, 192.168.3.241, High swap space usage (less than 50% free)
+37607, office-new-york-Switch.zabbix, 192.168.3.241, office-new-york-Switch.zabbix has been restarted (uptime < 10m)
+37608, office-new-york-Switch.zabbix, 192.168.3.241, /etc/passwd has been changed
+37609, office-new-york-Switch.zabbix, 192.168.3.241, Lack of available memory (<20M of 477.78 MB)
+37610, office-new-york-Switch.zabbix, 192.168.3.241, High memory utilization (>90% for 5m)

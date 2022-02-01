@@ -1,5 +1,0 @@
-TriggerID, Nome do host, IP, Descrição
- ,SRVDC02
-22320, SRVDC02, 192.168.3.201, Unavailable by ICMP ping
-22321, SRVDC02, 192.168.3.201, High ICMP ping loss
-22322, SRVDC02, 192.168.3.201, High ICMP ping response time
