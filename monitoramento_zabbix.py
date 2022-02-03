@@ -155,8 +155,7 @@ class Monitoramento(ZabbixAPI):
                     })
                 except:
                     id_dependentes[str(pai)] = str(filhos)
-
-        print("ids que possuem dependencia {}".format(id_dependentes))
+        print("Obtem Dependencia {}".format(id_dependentes))
 
     # recebe uma lista de triggers e remove as dependencias
     def del_trigger_dependency(self, triggers_ids):

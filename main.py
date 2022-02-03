@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import monitoramento_zabbix as C
-# import cobaia as C
 from os import system
 import sys
 
@@ -31,7 +30,7 @@ def menu():
     print("[6] - Remover dependencia de Trigger")
     print("[7] - Agentes desatualizados")
     print("[8] - Relatorio de Triggers")
-    print("[9] - Gerando ITservices")
+    print("[9] - Gerando ITservices - Desenvolvimento")
     print("[10]- Relatorio de itens não suportados")
     print ("[0]- Sair")
     menu_opcao()
@@ -134,7 +133,7 @@ def menu_opcao():
     elif opcao == '5':
         id = input(str("Informe a TriggerID Host Pai: ")).split(" ")
         triggers = input("Informe a lista de TriggerIDs de Hosts dependentes: ").split(" ")
-        system("clear")
+        system("cls")
         control.add_trigger_dependency(id_pai=id, triggers_ids=triggers)
         input("Pressione ENTER para continuar")
         menu()
