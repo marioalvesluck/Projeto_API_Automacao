@@ -1,8 +1,7 @@
 TriggerID, Nome do host, IP, Descrição
  ,office-new-york-router.zabbix
-18857, office-new-york-router.zabbix, 192.168.3.240, Unavailable by ICMP ping
-18858, office-new-york-router.zabbix, 192.168.3.240, High ICMP ping loss
-18859, office-new-york-router.zabbix, 192.168.3.240, High ICMP ping response time
+19030, office-new-york-router.zabbix, 192.168.3.240, Não responde [ office-new-york-router.zabbix ] [ Down (0) ] [ 192.168.3.240 ]
+19031, office-new-york-router.zabbix, 192.168.3.240, Perda de pacotes [ 100 % ] 192.168.3.240
 18860, office-new-york-router.zabbix, 192.168.3.240, Configured max number of open filedescriptors is too low (< 256)
 18861, office-new-york-router.zabbix, 192.168.3.240, Getting closer to process limit (over 80% used)
 18862, office-new-york-router.zabbix, 192.168.3.240, Configured max number of processes is too low (< 1024)
@@ -28,9 +27,8 @@ TriggerID, Nome do host, IP, Descrição
 18872, office-new-york-router.zabbix, 192.168.3.240, High memory utilization (>90% for 5m)
 18873, office-new-york-router.zabbix, 192.168.3.240, Zabbix agent is not available (for 3m)
  ,office-new-york-sr01.zabbix
-18882, office-new-york-sr01.zabbix, 192.168.3.242, Unavailable by ICMP ping
-18883, office-new-york-sr01.zabbix, 192.168.3.242, High ICMP ping loss
-18884, office-new-york-sr01.zabbix, 192.168.3.242, High ICMP ping response time
+19032, office-new-york-sr01.zabbix, 192.168.3.242, Não responde [ office-new-york-sr01.zabbix ] [ Down (0) ] [ 192.168.3.242 ]
+19033, office-new-york-sr01.zabbix, 192.168.3.242, Perda de pacotes [ 100 % ] 192.168.3.242
 18885, office-new-york-sr01.zabbix, 192.168.3.242, Configured max number of open filedescriptors is too low (< 256)
 18886, office-new-york-sr01.zabbix, 192.168.3.242, Getting closer to process limit (over 80% used)
 18887, office-new-york-sr01.zabbix, 192.168.3.242, Configured max number of processes is too low (< 1024)
@@ -56,9 +54,8 @@ TriggerID, Nome do host, IP, Descrição
 18897, office-new-york-sr01.zabbix, 192.168.3.242, High memory utilization (>90% for 5m)
 18898, office-new-york-sr01.zabbix, 192.168.3.242, Zabbix agent is not available (for 3m)
  ,office-new-york-Switch.zabbix
-18907, office-new-york-Switch.zabbix, 192.168.3.241, Unavailable by ICMP ping
-18908, office-new-york-Switch.zabbix, 192.168.3.241, High ICMP ping loss
-18909, office-new-york-Switch.zabbix, 192.168.3.241, High ICMP ping response time
+19034, office-new-york-Switch.zabbix, 192.168.3.241, Não responde [ office-new-york-Switch.zabbix ] [ Down (0) ] [ 192.168.3.241 ]
+19035, office-new-york-Switch.zabbix, 192.168.3.241, Perda de pacotes [ 100 % ] 192.168.3.241
 18910, office-new-york-Switch.zabbix, 192.168.3.241, Configured max number of open filedescriptors is too low (< 256)
 18911, office-new-york-Switch.zabbix, 192.168.3.241, Getting closer to process limit (over 80% used)
 18912, office-new-york-Switch.zabbix, 192.168.3.241, Configured max number of processes is too low (< 1024)
@@ -83,9 +80,8 @@ TriggerID, Nome do host, IP, Descrição
 18922, office-new-york-Switch.zabbix, 192.168.3.241, High memory utilization (>90% for 5m)
 18923, office-new-york-Switch.zabbix, 192.168.3.241, Zabbix agent is not available (for 3m)
  ,office-new-york-sr02.zabbix
-18932, office-new-york-sr02.zabbix, 192.168.3.243, Unavailable by ICMP ping
-18933, office-new-york-sr02.zabbix, 192.168.3.243, High ICMP ping loss
-18934, office-new-york-sr02.zabbix, 192.168.3.243, High ICMP ping response time
+19036, office-new-york-sr02.zabbix, 192.168.3.243, Não responde [ office-new-york-sr02.zabbix ] [ Down (0) ] [ 192.168.3.243 ]
+19037, office-new-york-sr02.zabbix, 192.168.3.243, Perda de pacotes [ 100 % ] 192.168.3.243
 18935, office-new-york-sr02.zabbix, 192.168.3.243, Configured max number of open filedescriptors is too low (< 256)
 18936, office-new-york-sr02.zabbix, 192.168.3.243, Getting closer to process limit (over 80% used)
 18937, office-new-york-sr02.zabbix, 192.168.3.243, Configured max number of processes is too low (< 1024)
