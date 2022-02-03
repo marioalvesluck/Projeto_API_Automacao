@@ -356,18 +356,3 @@ class Monitoramento(ZabbixAPI):
         for x in self.get_hostgroups():
             hostgroup_id = self.get_hostgroups_id(x)
             print('{} - {}'.format(hostgroup_id, x))
-
-
-
-
-# a = Monitoramento("http://192.168.0.253/zabbix", "Admin", "zabbix")
-
-# print(a.get_hostgroups(24))
-
-# a.delete_tree_itservices()
-# a.populate_all()
-# print(a.get_hostgroups_name([24]))
-
-# print(a.get_hostgroups_name(24))
-# a.populate_itens("24","10278",["icmpping","icmppingloss"])
-# print(a.get_hosts(a.get_hostgroups_name(24),hostid=["10278","10279"]))
